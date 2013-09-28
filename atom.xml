@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://bfortuner.github.io/atom.xml" rel="self"/>
-  <link href="http://bfortuner.github.io/"/>
-  <updated>2013-09-28T10:51:50-07:00</updated>
-  <id>http://bfortuner.github.io/</id>
-  <author>
-    <name><![CDATA[Your Name]]></name>
-    
-  </author>
-  <generator uri="http://octopress.org/">Octopress</generator>
+	<title><![CDATA[My Octopress Blog]]></title>
+	<link href="http://bfortuner.github.io/atom.xml" rel="self"/>
+	<link href="http://bfortuner.github.io/"/>
+	<updated>2013-09-28T12:05:22-07:00</updated>
+	<id>http://bfortuner.github.io/</id>
+	<author>
+		<name><![CDATA[Your Name]]></name>
+		
+	</author>
+	<generator uri="http://octopress.org/">Octopress</generator>
 
-  
+	
+	<entry>
+		
+			<title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+		
+		<link href="http://bfortuner.github.io/blog/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
+		<updated>2013-09-28T11:00:00-07:00</updated>
+		<id>http://bfortuner.github.io/blog/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p>This is some text about the post.</p>
+
+<p>And some more test right here.</p>
+]]>
+		</content>
+	</entry>
+	
 </feed>
