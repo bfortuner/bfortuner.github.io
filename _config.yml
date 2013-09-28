@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://bfortuner.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Brendan Fortuner
+subtitle: Personal Blog and Projects
+author: Brendan Fortuner
 simple_search: http://google.com/search
-description:
+description: Brendan Fortuner's blog and projects website.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
