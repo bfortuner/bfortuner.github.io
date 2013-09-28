@@ -12,8 +12,7 @@ $body-font: 'sorts-mill-goudy';
 $body-font-italic: 'sorts-mill-goudy-italic';
 $body-font-size: 1.1em;
 
-/*$blog-title-font: 'nevis';*/
-$blog-title-font: 'sorts-mill-goudy';
+$blog-title-font: 'nevis';
 $blog-title-font-size: 2.3em;
 $blog-title-text-transform: uppercase;
 
