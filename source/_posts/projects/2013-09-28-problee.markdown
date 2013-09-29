@@ -7,7 +7,9 @@ comments: true
 categories: 
 - projects
 ---
-![Problee]({{ root_url }}/assets/problee_1.png "Coding Practice Problems")
+[![Problee]({{ root_url }}/assets/problee_2.png "Coding Practice Problems")][1]
+
+[1]: http://www.problee.com
 
 Problee is a library of python practice problems aggregated from across the web. Designed with novice programmers in mind, most problems can be completed in less than 10 minutes. [GitHub][]
 

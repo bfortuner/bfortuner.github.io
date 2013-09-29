@@ -7,7 +7,9 @@ comments: true
 categories: 
 - projects
 ---
-![Navi]({{ root_url }}/assets/navi_1.png "Roadmaps For Learning")
+[![Navi]({{ root_url }}/assets/navi_1.png "Roadmaps For Learning")][1]
+
+[1]: http://www.brendanfortuner.com/navi
 
 Navi is the bookish intellectual stepchild of Reddit and Wikipedia. Users create and share &ldquo;roadmaps&rdquo; or paths of content they found helpful while they were getting up to speed on a particular topic. Content is organized into mini-slideshows (iframes) and voted up or down based on educational quality.
 

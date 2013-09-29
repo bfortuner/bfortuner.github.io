@@ -1,7 +1,7 @@
 <!-- START OF _includes/project.html -->
 <article>
 	<header>
-		<h1><a href="{{ root_url }}{{ page.url }}">{{ page.title }}</a></h1>
+		<h1 class="project-title"><a href="{{ root_url }}{{ page.external_url }}">{{ page.title }}</a></h1>
 	</header>
 		<div class="content">
 			{{ content }}
