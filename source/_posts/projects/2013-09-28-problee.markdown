@@ -1,0 +1,15 @@
+---
+layout: post
+title: Problee
+date: 2013-09-28 20:51
+external_url: http://www.problee.com
+comments: true
+categories: 
+- projects
+---
+![Problee]({{ root_url }}/assets/problee_1.png "Coding Practice Problems")
+
+Problee is a library of python practice problems aggregated from across the web. Designed with novice programmers in mind, most problems can be completed in less than 10 minutes. [GitHub][]
+
+[GitHub]: https://github.com/bfortuner/problem-lib
+
