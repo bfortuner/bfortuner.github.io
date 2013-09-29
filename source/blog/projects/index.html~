@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<!-- START OF blog/projects/index.html -->
+<!-- START OF index.html -->
 {% assign index = true %}
 	{% for page in site.categories['projects'] %}
 		{% assign content = page.content %}
 		{% include project.html %}
 	{% endfor %}
-<!-- END OF blog/projects/index.html -->
+<!-- END OF index.html -->

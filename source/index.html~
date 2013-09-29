@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- START OF index.html this is the homepage-->
+<!-- START OF index.html -->
 {% assign index = true %}
 	{% for page in site.categories['entries'] %}
 		{% assign content = page.content %}
