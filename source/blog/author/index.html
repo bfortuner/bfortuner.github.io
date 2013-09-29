@@ -19,12 +19,6 @@ footer: false
   {% assign year = this_year %}
 	<div class="cat-year">{{ year }}</div>
 {% endunless %}
-
-{% unless month == this_month %}
-  {% assign month = this_month %}
-	<div class="cat-month">{{ month }}</div>
-{% endunless %}
-
 {% include archive_post.html %}
 {% endfor %}
 
