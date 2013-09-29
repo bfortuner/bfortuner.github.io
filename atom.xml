@@ -4,7 +4,7 @@
 	<title><![CDATA[Brendan Fortuner]]></title>
 	<link href="http://bfortuner.github.io/atom.xml" rel="self"/>
 	<link href="http://bfortuner.github.io/"/>
-	<updated>2013-09-29T13:48:53-07:00</updated>
+	<updated>2013-09-29T16:21:38-07:00</updated>
 	<id>http://bfortuner.github.io/</id>
 	<author>
 		<name><![CDATA[Brendan Fortuner]]></name>
@@ -17,16 +17,16 @@
 		
 			<title type="html"><![CDATA[Problee]]></title>
 		
-		<link href="http://bfortuner.github.io/blog/projects/2013/09/29/problee/"/>
-		<updated>2013-09-29T11:23:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/projects/2013/09/29/problee</id>
+		<link href="http://bfortuner.github.io/blog/projects/2013/09/28/problee/"/>
+		<updated>2013-09-28T20:51:00-07:00</updated>
+		<id>http://bfortuner.github.io/blog/projects/2013/09/28/problee</id>
 		<content type="html">
 			<![CDATA[
 				
 					<p></p>
 				
 			]]>
-			<![CDATA[<p><a href="http://www.problee.com"><img src="http://bfortuner.github.io/assets/problee_2.png" title="Coding Practice Problems" alt="Coding Practice Problems" /></a></p>
+			<![CDATA[<p><a href="http://www.problee.com"><img src="http://bfortuner.github.io/assets/problee_2.png" title="Coding Practice Problems" alt="Problee" /></a></p>
 
 <p>Problee is a library of python practice problems aggregated from across the web. Designed with novice programmers in mind, most problems can be completed in less than 10 minutes. <a href="https://github.com/bfortuner/problem-lib">GitHub</a></p>
 ]]>
@@ -37,16 +37,16 @@
 		
 			<title type="html"><![CDATA[Trends With Friends]]></title>
 		
-		<link href="http://bfortuner.github.io/blog/projects/2013/09/29/trends-with-friends/"/>
-		<updated>2013-09-29T09:33:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/projects/2013/09/29/trends-with-friends</id>
+		<link href="http://bfortuner.github.io/blog/projects/2013/09/28/trendswithfriends/"/>
+		<updated>2013-09-28T17:51:00-07:00</updated>
+		<id>http://bfortuner.github.io/blog/projects/2013/09/28/trendswithfriends</id>
 		<content type="html">
 			<![CDATA[
 				
 					<p></p>
 				
 			]]>
-			<![CDATA[<p><a href="http://www.brendanfortuner.com/trends-with-friends"><img src="http://bfortuner.github.io/assets/twf_1.png" title="Celebrity Stock Market" alt="Trends With Friends - Celebrity Stock Market" /></a></p>
+			<![CDATA[<p><a href="http://www.brendanfortuner.com/trends-with-friends"><img src="http://bfortuner.github.io/assets/twf_1.png" title="Celebrity Stock Market" alt="Trends With Friends" /></a></p>
 
 <p>Trends With Friends combines the competitive addictive elements of the stock market with the social and fun nature of pop culture. Users buy and sell &ldquo;trends&rdquo; of athletes, authors, movie stars, politicians, and brands and earn points when their trends increase in popularity. The asset pricing model is based on a combination of in-app supply/demand, twitter sentiment analysis, and google search frequency.</p>
 ]]>
@@ -57,16 +57,16 @@
 		
 			<title type="html"><![CDATA[Navi]]></title>
 		
-		<link href="http://bfortuner.github.io/blog/projects/2013/09/29/navi/"/>
-		<updated>2013-09-29T09:23:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/projects/2013/09/29/navi</id>
+		<link href="http://bfortuner.github.io/blog/projects/2013/09/28/navi/"/>
+		<updated>2013-09-28T15:51:00-07:00</updated>
+		<id>http://bfortuner.github.io/blog/projects/2013/09/28/navi</id>
 		<content type="html">
 			<![CDATA[
 				
 					<p></p>
 				
 			]]>
-			<![CDATA[<p><a href="http://www.brendanfortuner.com/navi"><img src="http://bfortuner.github.io/assets/navi_1.png" title="Roadmaps For Learning" alt="Roadmaps For Learning" /></a></p>
+			<![CDATA[<p><a href="http://www.brendanfortuner.com/navi"><img src="http://bfortuner.github.io/assets/navi_1.png" title="Roadmaps For Learning" alt="Navi" /></a></p>
 
 <p>Navi is the bookish intellectual stepchild of Reddit and Wikipedia. Users create and share &ldquo;roadmaps&rdquo; or paths of content they found helpful while they were getting up to speed on a particular topic. Content is organized into mini-slideshows (iframes) and voted up or down based on educational quality.</p>
 ]]>
