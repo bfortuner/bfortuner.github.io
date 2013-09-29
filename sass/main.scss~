@@ -57,7 +57,7 @@ h2 {
 .wrap {
 	margin: 0 auto;
 	width: $content-width;
-	max-width: $max-body-width;
+	max-width:550px;
 	
 	@media only screen and (min-width: 0px) and (max-width: 1200px) {
 		width: 90%;

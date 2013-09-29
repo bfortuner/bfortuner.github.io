@@ -6,6 +6,8 @@ comments: true
 categories: 
 ---
 
+![test image]({{ root_url }}/assets/vikings.jpg "This is the annotation")
+
 Sed id lacus eu urna ullamcorper mattis. Etiam ut nunc erat. Sed et velit a\
 c nisi mattis mollis tempus id nulla. In varius fermentum posuere. Vivamus \
 suscipit accumsan arcu ac ullamcorper. Aliquam adipiscing, ante non eleifen\
