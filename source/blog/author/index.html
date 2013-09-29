@@ -6,15 +6,14 @@ footer: false
 
 <!-- BEGIN blog/about/index.html -->
 <p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
-
+<br>
 <header><h1 class="center">Contact</h1></header>
-<p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
-
+<p>Brendan can be reached by email at <a href="mailto:bfortuner@gmail.com?Subject=Hey" target="_top">bfortuner@gmail.com</a> or by smoke signal (looks something like <a href="http://brendanfortuner.com/assets/rotunda_burning.jpg">this</a>). He can also be found forking repositories on <a href="https://github.com/bfortuner?tab=repositories">GitHub</a>, rating novels he hasn't quite finished on <a href="http://www.goodreads.com/user/show/3966837-brendan-fortuner">Goodreads</a>, and trying to find love on <a href="http://www.linkedin.com/profile/view?id=31116705&authType=name&authToken=H979&locale=en_US&pvs=pp&trk=ppro_viewmore">LinkedIn</a>.</p>
+<br>
 <header><h1 class="center">All Posts</h1></header>
 {% for post in site.categories['entries'] reverse %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
-
 {% unless year == this_year %}
   {% assign year = this_year %}
 	<div class="cat-year">{{ year }}</div>
