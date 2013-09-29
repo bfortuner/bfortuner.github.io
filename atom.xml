@@ -4,7 +4,7 @@
 	<title><![CDATA[Brendan Fortuner]]></title>
 	<link href="http://bfortuner.github.io/atom.xml" rel="self"/>
 	<link href="http://bfortuner.github.io/"/>
-	<updated>2013-09-28T19:47:27-07:00</updated>
+	<updated>2013-09-28T20:04:00-07:00</updated>
 	<id>http://bfortuner.github.io/</id>
 	<author>
 		<name><![CDATA[Brendan Fortuner]]></name>
@@ -15,11 +15,29 @@
 	
 	<entry>
 		
+			<title type="html"><![CDATA[my first project]]></title>
+		
+		<link href="http://bfortuner.github.io/blog/projects/2013/09/28/my-first-project/"/>
+		<updated>2013-09-28T19:51:00-07:00</updated>
+		<id>http://bfortuner.github.io/blog/projects/2013/09/28/my-first-project</id>
+		<content type="html">
+			<![CDATA[
+				
+					<p></p>
+				
+			]]>
+			<![CDATA[<p><img src="http://bfortuner.github.io/assets/boats.jpg" title="This is the annotation" alt="test image" /></p>
+]]>
+		</content>
+	</entry>
+	
+	<entry>
+		
 			<title type="html"><![CDATA[this is my fourth post]]></title>
 		
-		<link href="http://bfortuner.github.io/blog/2013/09/28/this-is-my-fourth-post/"/>
+		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-fourth-post/"/>
 		<updated>2013-09-28T15:50:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/2013/09/28/this-is-my-fourth-post</id>
+		<id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-fourth-post</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -81,9 +99,9 @@ also deserve thanks for their feedback.</p>
 		
 			<title type="html"><![CDATA[This is my third post]]></title>
 		
-		<link href="http://bfortuner.github.io/blog/2013/09/28/this-is-my-third-post/"/>
+		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-third-post/"/>
 		<updated>2013-09-28T15:41:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/2013/09/28/this-is-my-third-post</id>
+		<id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-third-post</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -115,9 +133,9 @@ also deserve thanks for their feedback.</p>
 		
 			<title type="html"><![CDATA[This is my second post]]></title>
 		
-		<link href="http://bfortuner.github.io/blog/2013/09/28/this-is-my-second-post/"/>
+		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-second-post/"/>
 		<updated>2013-09-28T15:40:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/2013/09/28/this-is-my-second-post</id>
+		<id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-second-post</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -146,9 +164,9 @@ itae. Fusce ante ligula, cursus eget volutpat vel, pretium eget tellus.</p>
 		
 			<title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
 		
-		<link href="http://bfortuner.github.io/blog/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
+		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
 		<updated>2013-09-28T11:00:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective</id>
+		<id>http://bfortuner.github.io/blog/entries/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective</id>
 		<content type="html">
 			<![CDATA[
 				

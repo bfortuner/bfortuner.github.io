@@ -9,7 +9,7 @@
 		<meta content="Brendan Fortuner's blog and projects." name="description">
 		<meta content="Brendan Fortuner" name="author">
 		
-		<title>this is my fourth post &mdash; Brendan Fortuner</title>
+		<title>This is my third post &mdash; Brendan Fortuner</title>
 		
 		<!-- Styles -->
 		<link href="/stylesheets/main.css" rel="stylesheet">
@@ -51,69 +51,30 @@
 <!-- START OF _includes/article.html -->
 <article>
 	<header>
-		<h1><a href="/blog/2013/09/28/this-is-my-fourth-post/">this is my fourth post</a></h1>
+		<h1><a href="/blog/entries/2013/09/28/this-is-my-third-post/">This is my third post</a></h1>
 		<time>28 September 2013</time>
 	</header>
 		<div class="content">
-			<p><img src="/assets/boats.jpg" title="This is the annotation" alt="test image" /></p>
+			<p><img src="/assets/geometry.jpg" title="This is the annotation" alt="test image" /></p>
 
-<h2>Welcome</h2>
+<h2>Setting Up Blog Posts</h2>
 
-<p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
+<p>Now that you have a grasp of partials, static pages, and Jekyll’s basics, let’s move onto transforming the website you’ve built into a blog. In this tutorial, I will be going over how to build a blog using pure Jekyll. There are alternatives, including Octopress, that make the blogging experience a little bit easier (it comes with some nice plugins and such, but nothing we can’t recreate on our own), but the purpose of this tutorial is to teach you how Jekyll works. If you would like to read more about Octopress and what it offers, feel free to visit their website.</p>
 
-<!-- Add an image to a post! -->
+<p>Anyhow, building a blog with Jekyll is actually quite easy. It doesn’t require too much work to display posts because Jekyll was originally conceived with blogging in mind. At a high level, setting up Jekyll’s blogging system is very similar to “the loop” in Wordpress. If you’ve ever built a Wordpress theme or know the basics of how Wordpress works, you’ll be at home with Jekyll.</p>
 
+<p>For those unfamiliar with the concept of a “post loop,” it is essentially a way of asking a blogging platform to return a list of posts. In most cases, it will be posts 1-10, after which they will overflow onto the second page and so on and so forth. In this loop, we iterate over each post “object” and spit out HTML for each post, which means the code is the same to display 1, 10, or even a hundred posts.</p>
 
-<p><img src="/assets/tmp.png" title="This is the annotation" alt="test image" /></p>
+<h3>Post Dummy Content</h3>
 
-<h2>So what is Jekyll, exactly?</h2>
+<p>Before we write a post loop, we will need some dummy content so we can see the results.</p>
 
-<p>Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through Markdown (or Textile) and Liquid converters, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.</p>
+<p>The _posts folder contains all of the blog posts’ content and metadata. Jekyll is pretty smart, so we can also mix Markdown, HTML, and other formats in this folder. For example, the more complicated articles on my website (such as Moore’s Law of the Mind) are written in .html files, whereas regular posts are simply Markdown.</p>
 
-<!-- This is a code snippet with cool styling! -->
-
-
-
-
-<div>
-  <pre><code class='python'>def shift_n_letters(letter, n):
-    letter_pos = ord(letter)
-    letter_plus_n = letter_pos + n
-    if letter_plus_n &lt;= 122 and letter_plus_n &gt;= 97:
-        return chr(letter_plus_n)
-    elif letter_plus_n &gt; 122:
-        return chr(96 + letter_plus_n - 122)
-    return chr(122 - (96 - letter_plus_n))</code></pre>
-</div>
-
-
-
-
-<!-- This section demonstrates how to imbed multiple links! -->
-
-
-<h2>Acknowledgements <a id="acknowledgements" /></h2>
-
-<p><a href="http://www.aaronsw.com/">Aaron Swartz</a> deserves a tremendous amount of credit for his feedback on the
-design of Markdown&rsquo;s formatting syntax. Markdown is <em>much</em> better thanks
-to Aaron&rsquo;s ideas, feedback, and testing. Also, Aaron&rsquo;s <a href="http://www.aaronsw.com/2002/html2text/">html2text</a>
-is a very handy (and free) utility for turning HTML into
-Markdown-formatted plain text.</p>
-
-<p><a href="http://bumppo.net/">Nathaniel Irons</a>, <a href="http://hivelogic.com/">Dan Benjamin</a>, <a href="http://waferbaby.com/">Daniel Bogan</a>, and <a href="http://pressedpants.com/">Jason Perkins</a>
-also deserve thanks for their feedback.</p>
+<p>To create a blog post, drop a Markdown file into the _posts folder. However, there is a specific naming structure for posts and the files must be named in this way:</p>
 
 		</div>
 	<footer>
-		
-
-
-		
-
-
-
-
-	
 	
 	</footer>
 	
