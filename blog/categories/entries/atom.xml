@@ -4,7 +4,7 @@
   <title><![CDATA[Category: entries | Brendan Fortuner]]></title>
   <link href="http://bfortuner.github.io/blog/categories/entries/atom.xml" rel="self"/>
   <link href="http://bfortuner.github.io/"/>
-  <updated>2013-09-28T20:38:21-07:00</updated>
+  <updated>2013-09-28T20:45:55-07:00</updated>
   <id>http://bfortuner.github.io/</id>
   <author>
     <name><![CDATA[Brendan Fortuner]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[this is my fourth post]]></title>
-    <link href="http://bfortuner.github.io/blog/2013/09/28/this-is-my-fourth-post/"/>
+    <link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-fourth-post/"/>
     <updated>2013-09-28T15:50:00-07:00</updated>
-    <id>http://bfortuner.github.io/blog/2013/09/28/this-is-my-fourth-post</id>
+    <id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-fourth-post</id>
     <content type="html"><![CDATA[<p><img src="/assets/boats.jpg" title="This is the annotation" alt="test image" /></p>
 
 <h2>Welcome</h2>
@@ -70,9 +70,9 @@ also deserve thanks for their feedback.</p>
   
   <entry>
     <title type="html"><![CDATA[This is my third post]]></title>
-    <link href="http://bfortuner.github.io/blog/2013/09/28/this-is-my-third-post/"/>
+    <link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-third-post/"/>
     <updated>2013-09-28T15:41:00-07:00</updated>
-    <id>http://bfortuner.github.io/blog/2013/09/28/this-is-my-third-post</id>
+    <id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-third-post</id>
     <content type="html"><![CDATA[<p><img src="/assets/geometry.jpg" title="This is the annotation" alt="test image" /></p>
 
 <h2>Setting Up Blog Posts</h2>
@@ -95,9 +95,9 @@ also deserve thanks for their feedback.</p>
   
   <entry>
     <title type="html"><![CDATA[This is my second post]]></title>
-    <link href="http://bfortuner.github.io/blog/2013/09/28/this-is-my-second-post/"/>
+    <link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-second-post/"/>
     <updated>2013-09-28T15:40:00-07:00</updated>
-    <id>http://bfortuner.github.io/blog/2013/09/28/this-is-my-second-post</id>
+    <id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-second-post</id>
     <content type="html"><![CDATA[<p><img src="/assets/vikings.jpg" title="This is the annotation" alt="test image" /></p>
 
 <p>Sed id lacus eu urna ullamcorper mattis. Etiam ut nunc erat. Sed et velit a\
@@ -117,9 +117,9 @@ itae. Fusce ante ligula, cursus eget volutpat vel, pretium eget tellus.</p>
   
   <entry>
     <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
-    <link href="http://bfortuner.github.io/blog/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <link href="http://bfortuner.github.io/blog/entries/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
     <updated>2013-09-28T11:00:00-07:00</updated>
-    <id>http://bfortuner.github.io/blog/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <id>http://bfortuner.github.io/blog/entries/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective</id>
     <content type="html"><![CDATA[<p>This is some text about the post.</p>
 
 <p>And some more test right here.</p>

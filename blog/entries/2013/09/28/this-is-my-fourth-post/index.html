@@ -9,7 +9,7 @@
 		<meta content="Brendan Fortuner's blog and projects." name="description">
 		<meta content="Brendan Fortuner" name="author">
 		
-		<title>Brendan Fortuner</title>
+		<title>this is my fourth post &mdash; Brendan Fortuner</title>
 		
 		<!-- Styles -->
 		<link href="/stylesheets/main.css" rel="stylesheet">
@@ -46,68 +46,73 @@
 				</div> <!-- // .navi -->
 			</header>
 		
-				<!-- START OF index.html -->
+				<!-- START OF _layouts/post.html -->
 
-	
-		
-		<!-- START OF _includes/project.html -->
+<!-- START OF _includes/article.html -->
 <article>
 	<header>
-		<h1><a href="/blog/projects/2013/09/28/my-third-project/">Navi - Roadmaps For Learning</a></h1>
-	</header>
-		<div class="content">
-			<p><img src="/assets/vikings.jpg" alt="test image" /></p>
-
-<p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
-
-		</div>
-	<footer>
-	
-	</footer>
-	
-</article>
-<!-- END OF _includes/project.html -->
-
-	
-		
-		<!-- START OF _includes/project.html -->
-<article>
-	<header>
-		<h1><a href="/blog/projects/2013/09/28/my-second-project/">Problee - Coding Practice Problems</a></h1>
-	</header>
-		<div class="content">
-			<p><img src="/assets/tmp.png" alt="test image" /></p>
-
-<p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
-
-		</div>
-	<footer>
-	
-	</footer>
-	
-</article>
-<!-- END OF _includes/project.html -->
-
-	
-		
-		<!-- START OF _includes/project.html -->
-<article>
-	<header>
-		<h1><a href="/blog/projects/2013/09/28/my-first-project/">my first project</a></h1>
+		<h1><a href="/blog/entries/2013/09/28/this-is-my-fourth-post/">this is my fourth post</a></h1>
+		<time>28 September 2013</time>
 	</header>
 		<div class="content">
 			<p><img src="/assets/boats.jpg" title="This is the annotation" alt="test image" /></p>
 
+<h2>Welcome</h2>
+
+<p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
+
+<!-- Add an image to a post! -->
+
+
+<p><img src="/assets/tmp.png" title="This is the annotation" alt="test image" /></p>
+
+<h2>So what is Jekyll, exactly?</h2>
+
+<p>Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through Markdown (or Textile) and Liquid converters, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.</p>
+
+<!-- This is a code snippet with cool styling! -->
+
+
+
+
+<div>
+  <pre><code class='python'>def shift_n_letters(letter, n):
+    letter_pos = ord(letter)
+    letter_plus_n = letter_pos + n
+    if letter_plus_n &lt;= 122 and letter_plus_n &gt;= 97:
+        return chr(letter_plus_n)
+    elif letter_plus_n &gt; 122:
+        return chr(96 + letter_plus_n - 122)
+    return chr(122 - (96 - letter_plus_n))</code></pre>
+</div>
+
+
+
+
+<!-- This section demonstrates how to imbed multiple links! -->
+
+
+<h2>Acknowledgements <a id="acknowledgements" /></h2>
+
+<p><a href="http://www.aaronsw.com/">Aaron Swartz</a> deserves a tremendous amount of credit for his feedback on the
+design of Markdown&rsquo;s formatting syntax. Markdown is <em>much</em> better thanks
+to Aaron&rsquo;s ideas, feedback, and testing. Also, Aaron&rsquo;s <a href="http://www.aaronsw.com/2002/html2text/">html2text</a>
+is a very handy (and free) utility for turning HTML into
+Markdown-formatted plain text.</p>
+
+<p><a href="http://bumppo.net/">Nathaniel Irons</a>, <a href="http://hivelogic.com/">Dan Benjamin</a>, <a href="http://waferbaby.com/">Daniel Bogan</a>, and <a href="http://pressedpants.com/">Jason Perkins</a>
+also deserve thanks for their feedback.</p>
+
 		</div>
 	<footer>
 	
 	</footer>
 	
 </article>
-<!-- END OF _includes/project.html -->
+<!-- END OF _includes/article.html -->
 
-	
-<!-- END OF index.html -->
+
+<!-- END OF _/layouts/post.html -->
 
 		
 			<footer>

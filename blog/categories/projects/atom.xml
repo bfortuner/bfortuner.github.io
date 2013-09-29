@@ -4,7 +4,7 @@
   <title><![CDATA[Category: projects | Brendan Fortuner]]></title>
   <link href="http://bfortuner.github.io/blog/categories/projects/atom.xml" rel="self"/>
   <link href="http://bfortuner.github.io/"/>
-  <updated>2013-09-28T20:38:21-07:00</updated>
+  <updated>2013-09-28T20:45:55-07:00</updated>
   <id>http://bfortuner.github.io/</id>
   <author>
     <name><![CDATA[Brendan Fortuner]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Navi - Roadmaps For Learning]]></title>
-    <link href="http://bfortuner.github.io/blog/2013/09/28/my-third-project/"/>
+    <link href="http://bfortuner.github.io/blog/projects/2013/09/28/my-third-project/"/>
     <updated>2013-09-28T19:51:00-07:00</updated>
-    <id>http://bfortuner.github.io/blog/2013/09/28/my-third-project</id>
+    <id>http://bfortuner.github.io/blog/projects/2013/09/28/my-third-project</id>
     <content type="html"><![CDATA[<p><img src="/assets/vikings.jpg" alt="test image" /></p>
 
 <p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
@@ -26,9 +26,9 @@
   
   <entry>
     <title type="html"><![CDATA[Problee - Coding Practice Problems]]></title>
-    <link href="http://bfortuner.github.io/blog/2013/09/28/my-second-project/"/>
+    <link href="http://bfortuner.github.io/blog/projects/2013/09/28/my-second-project/"/>
     <updated>2013-09-28T19:51:00-07:00</updated>
-    <id>http://bfortuner.github.io/blog/2013/09/28/my-second-project</id>
+    <id>http://bfortuner.github.io/blog/projects/2013/09/28/my-second-project</id>
     <content type="html"><![CDATA[<p><img src="/assets/tmp.png" alt="test image" /></p>
 
 <p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
@@ -37,9 +37,9 @@
   
   <entry>
     <title type="html"><![CDATA[my first project]]></title>
-    <link href="http://bfortuner.github.io/blog/2013/09/28/my-first-project/"/>
+    <link href="http://bfortuner.github.io/blog/projects/2013/09/28/my-first-project/"/>
     <updated>2013-09-28T19:51:00-07:00</updated>
-    <id>http://bfortuner.github.io/blog/2013/09/28/my-first-project</id>
+    <id>http://bfortuner.github.io/blog/projects/2013/09/28/my-first-project</id>
     <content type="html"><![CDATA[<p><img src="/assets/boats.jpg" title="This is the annotation" alt="test image" /></p>
 ]]></content>
   </entry>
