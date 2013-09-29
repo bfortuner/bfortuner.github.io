@@ -4,7 +4,7 @@ layout: default
 
 <!-- START OF index.html -->
 {% assign index = true %}
-	{% for page in paginator.posts %}
+	{% for page in site.categories['entries'] %}
 		{% assign content = page.content %}
 		{% include article.html %}
 	{% endfor %}

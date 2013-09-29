@@ -4,6 +4,7 @@ title: "This is my third post"
 date: 2013-09-28 15:41
 comments: true
 categories: 
+- entries
 ---
 
 ![test image]({{ root_url }}/assets/geometry.jpg "This is the annotation")
