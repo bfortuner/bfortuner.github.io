@@ -25,6 +25,8 @@ body {
 	font-family: $body-font;
 	font-size: $body-font-size;
 	color: $black;
+	background: $background-color;
+
 	
 	@media only screen and (max-width: 1000px) {
 		font-size: 0.9em;
@@ -38,6 +40,7 @@ em {
 	
 h1 {
 	margin-top: $heading-top-spacing;
+	margin-bottom: $heading-bottom-spacing;
 	font-size: $heading-font-size;
 	font-weight: $heading-font-weight;
 	font-style: $heading-font-style;
@@ -80,6 +83,7 @@ header {
 		font-family: $blog-title-font;
 		font-size: $blog-title-font-size;
 		text-transform: $blog-title-text-transform;
+		font-weight: $blog-title-weight;
 		}
 	
 	.navi {
@@ -137,8 +141,8 @@ article {
 		
 	footer {
 		padding: $tags-spacing 0;
-		border-bottom: 1px solid $light-gray;
-		border-top: 1px solid $light-gray;
+		/*border-bottom: 1px solid $light-gray;
+		border-top: 1px solid $light-gray;*/
 		}
 		
 	h1, h2, h3 {
@@ -190,7 +194,7 @@ article {
 		img {
 			max-width: 100%;
 			padding: 4px;
-			@include box-shadow(0 0 0px 1px $gray);
+			@include box-shadow(0 0 0px 0px $gray);
 			}
 			
 		.word1,

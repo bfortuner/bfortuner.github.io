@@ -1,5 +1,6 @@
 /* Colors */
 $main-color: red;
+$background-color: white;
 
 $white: #fff;
 $light-gray: #dfdfdf;
@@ -7,17 +8,20 @@ $light-light-gray: #f8f8f8;
 $gray: #b0b0b0;
 $black: #333;
 
+
+
 /* Typography */
-$body-font: 'sorts-mill-goudy';
-$body-font-italic: 'sorts-mill-goudy-italic';
+$body-font: 'bookletter';
+$body-font-italic: 'bookletter';
 $body-font-size: 1.1em;
 
-$blog-title-font: 'nevis';
+$blog-title-font: 'bookletter';
 $blog-title-font-size: 2.3em;
 $blog-title-text-transform: uppercase;
+$blog-title-weight: bold;
 
-$navi-font: 'sorts-mill-goudy';
-$navi-font-size: 1.15em;
+$navi-font: 'bookletter';
+$navi-font-size: 1.25em;
 
 $page-title-align: center;
 
@@ -34,7 +38,7 @@ $post-title-font-style: normal;
 $post-title-line-height: 1.3em;
 $post-title-align: center;
 
-$date-font-size: 1em;
+$date-font-size: .08em;
 $date-font-style: normal;
 
 $heading-font-size: 1.4em;
@@ -83,23 +87,23 @@ $month-indent: 2em;
 $content-width: 45%;
 
 /* Space above and below the header section */
-$header-spacing: 150px; 
+$header-spacing: 60px; 
 
 /* Weight of the line at the top of the page */
 $top-line-weight: 8px;     
 
 /* Space between header links (this will be in ems) */
-$navi-link-spacing: 0.8;     
-$navi-top-spacing: 0.4em;
+$navi-link-spacing: 1.2;     
+$navi-top-spacing: 0.5em;
 
 /* Space between the date and the post */
-$post-content-top-space: 3em;
+$post-content-top-space: 2em;
 
 /* Space between the post and the author/tags */
-$post-content-bottom-space: 2em; 
+$post-content-bottom-space: 1em; 
 
 /* Space between posts in ems */
-$space-between-posts: 8;
+$space-between-posts: 2;
 
 /* Author tags top and bottom spacing */
 $tags-spacing: 1em;
