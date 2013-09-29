@@ -113,12 +113,12 @@ itae. Fusce ante ligula, cursus eget volutpat vel, pretium eget tellus.</p>
 			
 			// Prettify code
 			$('code').addClass('prettyprint');
-			$('pre code').addClass('linenums');
+			// $('pre code').addClass('linenums');
 			
 			// Copy to clipboard with button
-			$('pre:has(code)').prepend(function(){
-				return '<div class="clip-btn">copy to clipboard</div>';
-			});
+			// $('pre:has(code)').prepend(function(){
+			//	return '<div class="clip-btn">copy to clipboard</div>';
+			// });
 			$('.clip-btn').zclip({
 				path:'/js/ZeroClipboard.swf',
 				copy: $(this).next('code').text(),
