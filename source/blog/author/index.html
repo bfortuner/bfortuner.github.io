@@ -11,7 +11,7 @@ footer: false
 <p>This site aims to be a comprehensive guide to Jekyll. We’ll cover topics such as getting your site up and running, creating and managing your content, customizing the way your site works and looks, deploying to various environments, and give you some advice on participating in the future development of Jekyll itself.</p>
 
 <header><h1 class="center">All Posts</h1></header>
-{% for post in site.posts reverse %}
+{% for post in site.categories['entries'] reverse %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
 
