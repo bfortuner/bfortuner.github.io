@@ -300,8 +300,13 @@ p > code {
 
 .projects {
 	  img {
-	  	  border: 1px solid black;
+		  padding: 0px;
 	  }
+
+	  img:hover {
+	  	    opacity:.8;
+	  }
+
 }
 
 

@@ -81,10 +81,17 @@ header {
 	text-align: center;
 	
 	.title {
+		color: black;
 		font-family: $blog-title-font;
 		font-size: $blog-title-font-size;
 		text-transform: $blog-title-text-transform;
 		font-weight: $blog-title-weight;
+		a {
+		  color: black;
+		}
+		a:hover {
+			color: red;
+		}
 		}
 	
 	.navi {
@@ -300,9 +307,7 @@ p > code {
 
 .projects {
 	  img {
-	  	  border: 3px solid black;
 		  padding: 0px;
-	  	  border-radius: 2px;
 	  }
 
 	  img:hover {
