@@ -1,46 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://bfortuner.github.io/blog/entries/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective/
-        </loc>
-        <lastmod>2013-09-29T15:27:22-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-second-post/</loc>
-        <lastmod>2013-09-29T15:27:22-07:00</lastmod>
-    </url>
-    <url>
-        <loc>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-third-post/</loc>
-        <lastmod>2013-09-29T15:27:22-07:00</lastmod>
-    </url>
-    <url>
         <loc>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-fourth-post/</loc>
-        <lastmod>2013-09-29T15:27:22-07:00</lastmod>
+        <lastmod>2013-09-29T18:45:55-07:00</lastmod>
     </url>
     <url>
         <loc>http://bfortuner.github.io/blog/projects/2013/09/28/navi/</loc>
-        <lastmod>2013-09-29T16:12:21-07:00</lastmod>
+        <lastmod>2013-09-29T16:36:17-07:00</lastmod>
     </url>
     <url>
         <loc>http://bfortuner.github.io/blog/projects/2013/09/28/trendswithfriends/</loc>
-        <lastmod>2013-09-29T16:12:51-07:00</lastmod>
+        <lastmod>2013-09-29T16:36:17-07:00</lastmod>
     </url>
     <url>
         <loc>http://bfortuner.github.io/blog/projects/2013/09/28/problee/</loc>
-        <lastmod>2013-09-29T16:11:44-07:00</lastmod>
+        <lastmod>2013-09-29T16:36:17-07:00</lastmod>
     </url>
     <url>
         <loc>http://bfortuner.github.io/blog/author/blog/author/</loc>
-        <lastmod>2013-09-29T16:12:51-07:00</lastmod>
+        <lastmod>2013-09-29T18:45:55-07:00</lastmod>
     </url>
     <url>
         <loc>http://bfortuner.github.io/blog/projects/blog/projects/</loc>
-        <lastmod>2013-09-29T16:12:51-07:00</lastmod>
+        <lastmod>2013-09-29T18:45:55-07:00</lastmod>
     </url>
     <url>
         <loc>http://bfortuner.github.io/</loc>
-        <lastmod>2013-09-29T16:12:51-07:00</lastmod>
+        <lastmod>2013-09-29T18:45:55-07:00</lastmod>
     </url>
     <url>
         <loc>http://bfortuner.github.io/robots.txt</loc>

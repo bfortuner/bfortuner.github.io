@@ -4,7 +4,7 @@
 	<title><![CDATA[Brendan Fortuner]]></title>
 	<link href="http://bfortuner.github.io/atom.xml" rel="self"/>
 	<link href="http://bfortuner.github.io/"/>
-	<updated>2013-09-29T16:21:38-07:00</updated>
+	<updated>2013-09-29T19:26:23-07:00</updated>
 	<id>http://bfortuner.github.io/</id>
 	<author>
 		<name><![CDATA[Brendan Fortuner]]></name>
@@ -75,7 +75,7 @@
 	
 	<entry>
 		
-			<title type="html"><![CDATA[this is my fourth post]]></title>
+			<title type="html"><![CDATA[This Is a Test Post]]></title>
 		
 		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-fourth-post/"/>
 		<updated>2013-09-28T15:50:00-07:00</updated>
@@ -133,91 +133,6 @@ Markdown-formatted plain text.</p>
 
 <p><a href="http://bumppo.net/">Nathaniel Irons</a>, <a href="http://hivelogic.com/">Dan Benjamin</a>, <a href="http://waferbaby.com/">Daniel Bogan</a>, and <a href="http://pressedpants.com/">Jason Perkins</a>
 also deserve thanks for their feedback.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[This is my third post]]></title>
-		
-		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-third-post/"/>
-		<updated>2013-09-28T15:41:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-third-post</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p><img src="http://bfortuner.github.io/assets/geometry.jpg" title="This is the annotation" alt="test image" /></p>
-
-<h2>Setting Up Blog Posts</h2>
-
-<p>Now that you have a grasp of partials, static pages, and Jekyll’s basics, let’s move onto transforming the website you’ve built into a blog. In this tutorial, I will be going over how to build a blog using pure Jekyll. There are alternatives, including Octopress, that make the blogging experience a little bit easier (it comes with some nice plugins and such, but nothing we can’t recreate on our own), but the purpose of this tutorial is to teach you how Jekyll works. If you would like to read more about Octopress and what it offers, feel free to visit their website.</p>
-
-<p>Anyhow, building a blog with Jekyll is actually quite easy. It doesn’t require too much work to display posts because Jekyll was originally conceived with blogging in mind. At a high level, setting up Jekyll’s blogging system is very similar to “the loop” in Wordpress. If you’ve ever built a Wordpress theme or know the basics of how Wordpress works, you’ll be at home with Jekyll.</p>
-
-<p>For those unfamiliar with the concept of a “post loop,” it is essentially a way of asking a blogging platform to return a list of posts. In most cases, it will be posts 1-10, after which they will overflow onto the second page and so on and so forth. In this loop, we iterate over each post “object” and spit out HTML for each post, which means the code is the same to display 1, 10, or even a hundred posts.</p>
-
-<h3>Post Dummy Content</h3>
-
-<p>Before we write a post loop, we will need some dummy content so we can see the results.</p>
-
-<p>The _posts folder contains all of the blog posts’ content and metadata. Jekyll is pretty smart, so we can also mix Markdown, HTML, and other formats in this folder. For example, the more complicated articles on my website (such as Moore’s Law of the Mind) are written in .html files, whereas regular posts are simply Markdown.</p>
-
-<p>To create a blog post, drop a Markdown file into the _posts folder. However, there is a specific naming structure for posts and the files must be named in this way:</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[This is my second post]]></title>
-		
-		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-second-post/"/>
-		<updated>2013-09-28T15:40:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/entries/2013/09/28/this-is-my-second-post</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p><img src="http://bfortuner.github.io/assets/vikings.jpg" title="This is the annotation" alt="test image" /></p>
-
-<p>Sed id lacus eu urna ullamcorper mattis. Etiam ut nunc erat. Sed et velit a\
-c nisi mattis mollis tempus id nulla. In varius fermentum posuere. Vivamus \
-suscipit accumsan arcu ac ullamcorper. Aliquam adipiscing, ante non eleifen\
-d blandit, nunc diam vulputate augue, eu convallis lorem lacus in lacus. Cu\
-rabitur ultricies ultrices diam, vel tincidunt dui rhoncus a. Vivamus at sa\
-pien in turpis consequat pharetra sit amet quis elit.</p>
-
-<h2>Nam vel justo ut nisl rutrum lobortis</h2>
-
-<p>Donec at arcu nisi, quis euismod enim. Donec viverra felis vitae elit ornar\
-e porta. Vivamus ullamcorper consectetur odio, vitae imperdiet mi laoreet v\
-itae. Fusce ante ligula, cursus eget volutpat vel, pretium eget tellus.</p>
-]]>
-		</content>
-	</entry>
-	
-	<entry>
-		
-			<title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
-		
-		<link href="http://bfortuner.github.io/blog/entries/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective/"/>
-		<updated>2013-09-28T11:00:00-07:00</updated>
-		<id>http://bfortuner.github.io/blog/entries/2013/09/28/zombie-ninjas-attack-a-survivors-retrospective</id>
-		<content type="html">
-			<![CDATA[
-				
-					<p></p>
-				
-			]]>
-			<![CDATA[<p>This is some text about the post.</p>
-
-<p>And some more test right here.</p>
 ]]>
 		</content>
 	</entry>
