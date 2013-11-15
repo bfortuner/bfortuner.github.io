@@ -4,7 +4,7 @@
 	<title><![CDATA[Brendan Fortuner]]></title>
 	<link href="http://bfortuner.github.io/atom.xml" rel="self"/>
 	<link href="http://bfortuner.github.io/"/>
-	<updated>2013-10-12T14:37:20-07:00</updated>
+	<updated>2013-11-15T11:12:24-08:00</updated>
 	<id>http://bfortuner.github.io/</id>
 	<author>
 		<name><![CDATA[Brendan Fortuner]]></name>
@@ -66,9 +66,9 @@
 					<p></p>
 				
 			]]>
-			<![CDATA[<p><a href="http://www.brendanfortuner.com/navi"><img src="http://bfortuner.github.io/assets/navi_1.png" title="Roadmaps For Learning" alt="Navi" /></a></p>
+			<![CDATA[<p><a href="http://navi-web-env-3mpczhimr3.elasticbeanstalk.com/"><img src="http://bfortuner.github.io/assets/navi_1.png" title="Roadmaps For Learning" alt="Navi" /></a></p>
 
-<p>Navi is the bookish intellectual stepchild of Reddit and Wikipedia. Users create and share &ldquo;roadmaps&rdquo; or paths of content they found helpful while they were getting up to speed on a particular topic. Content is organized into mini-slideshows (iframes) and voted up or down based on educational quality.</p>
+<p>Navi is the bookish stepchild of Reddit and Wikipedia. It seeks to answer the question: &ldquo;What are the best resources for learning about X topic? Users share books, blog posts, videos, and online tutorials they found helpful while they were getting up to speed on a specific topic. Content is voted up or down based on its educational quality. <a href="https://github.com/bfortuner/problem-lib">GitHub</a></p>
 ]]>
 		</content>
 	</entry>
